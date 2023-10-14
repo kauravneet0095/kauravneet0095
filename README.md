@@ -1,10 +1,10 @@
-### Hi there, I'm [Avneet Kaur](https://github.com/kauravneet0095) 👋
+## Hi there, I'm [Avneet Kaur](https://github.com/kauravneet0095) 👋
 
-I am a professional Software Developer. Having 6yrs experience in various technologies and contributing to open source
+I am a professional Software Developer. Having 6yrs experience in various technologies and contributing to open-source
 
  **I am open to**:
 
-- any collobration work,
+- Any collaboration work,
 - Mobile Development projects,
 - Android,
 - Ios,
