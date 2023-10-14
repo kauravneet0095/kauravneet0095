@@ -1,4 +1,4 @@
-## Hi there, I'm [Avneet Kaur](https://github.com/kauravneet0095) 👋
+##  Hi there, I'm [Avneet Kaur](https://github.com/kauravneet0095) 👋
 
 I am a professional Software Developer. Having 6yrs experience in various technologies and contributing to open source
 
